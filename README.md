@@ -1,6 +1,7 @@
 # 8-bit-Computer-CPE453
 Proteus Schematics for an 8-bit Simple As Possible(SAP) microcomputer
 
+
 ## Components that have been built
 ### Clock
 ### Program Counter
@@ -12,10 +13,12 @@ Proteus Schematics for an 8-bit Simple As Possible(SAP) microcomputer
 ### Output register
 ### Intruction register
 
+
 ## Components to be built
 ### Binary display
 ### Controller/sequencer
 ### Accumulator
+
 
 ## Other Tasks
 ### Label the wires connected to the main bus
